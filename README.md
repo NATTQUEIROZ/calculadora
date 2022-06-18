@@ -5,5 +5,5 @@ calculadora simples
 
 * link do surge: moaning-downtown.surge.sh
 
-##Projeto não finalizado
+## Projeto não finalizado
 A estilização ainda não está finalizada. 
